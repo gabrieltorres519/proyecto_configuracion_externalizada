@@ -1,0 +1,22 @@
+{
+  "name": "configuracion_externalizada",
+  "version": "1.0.0",
+  "description": "Proyecto_configuracion_externalizda",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrieltorres519/proyecto_configuracion_externalizada.git"
+  },
+  "author": "gabrieltorres519",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrieltorres519/proyecto_configuracion_externalizada/issues"
+  },
+  "homepage": "https://github.com/gabrieltorres519/proyecto_configuracion_externalizada#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
