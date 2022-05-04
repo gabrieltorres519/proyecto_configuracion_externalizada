@@ -18,5 +18,8 @@
   "homepage": "https://github.com/gabrieltorres519/proyecto_configuracion_externalizada#readme",
   "devDependencies": {
     "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
   }
 }
